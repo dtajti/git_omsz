@@ -1,2 +1,2 @@
 sixth file first line
-sixth file second line
+second
